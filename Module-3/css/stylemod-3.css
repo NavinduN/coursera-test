@@ -25,27 +25,36 @@ h2 {
 section > p {
   font-size: 1.2em
 }
+section {
+	height:320px;
+}
 
 #bg1{
+	background-color: black;
+	padding: 5px;
   border-width: 0px;
   margin-left:8px;
   margin-right: 8px;
-  margin-bottom: 8px;
+  margin-bottom: 40px;
   border-style: solid;
 }
 #bg2{
+	background-color: black;
+	padding: 5px;
   border-width: 0px;
   margin-left:8px;
   margin-right: 8px;
-  margin-bottom: 8px;
+  margin-bottom: 40px;
   border-style: solid;
 }
 
 #bg3 {
+	background-color: black;
+	padding: 5px;
   border-width: 0px;
   margin-right:8px;
   margin-left: 8px;
-  margin-bottom: 8px;
+  margin-bottom: 40px;
   border-style: solid;
 }
 
